@@ -1,0 +1,23 @@
+{
+  "name": "sass-learning",
+  "version": "1.0.0",
+  "description": "Sass learning",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ac13793/Sass-Learning.git"
+  },
+  "author": "Ankit Chaurasia",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ac13793/Sass-Learning/issues"
+  },
+  "homepage": "https://github.com/ac13793/Sass-Learning#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-ruby-sass": "^2.1.1"
+  }
+}
